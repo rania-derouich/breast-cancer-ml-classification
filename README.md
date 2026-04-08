@@ -1,4 +1,4 @@
-# Breast Cancer Classification using Machine Learning
+# quantum-ai-breast-cancer-prediction
 
 This project implements and compares multiple classical machine learning models
 and a neural network for breast cancer diagnosis using the
